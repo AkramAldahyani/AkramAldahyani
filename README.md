@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akram Al-Dahyani 👾</h1>
+<h1 align="center">Hi, I'm Akram AlDahyani 👾</h1>
 
 <p align="center">
   <em>Cybersecurity student focused on offensive & defensive security, threat hunting, SOC operations, and security automation.</em>
