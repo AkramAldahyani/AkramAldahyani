@@ -9,7 +9,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Akram_Al--Dahyani-0A66C2?style=flat&logo=linkedin" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/eJPT-Certified-darkgreen?style=flat&logo=ine" />
+  <a href="https://certs.ine.com/96b5a682-f59d-4a56-a319-d206d7fcf767#acc.1Tlir3JP">
+    <img src="https://img.shields.io/badge/eJPT-Certified-darkgreen?style=flat&logo=ine" />
+</a>
 </p>
 
 ---
@@ -30,16 +32,20 @@
 
 ## 🚀 Projects
 
-### 🔴 Red Team Home Lab *(2025)*
+### 🔴 Red Team Home Lab _(2025)_
+
 Isolated virtual attack lab with Kali Linux as attacker and Metasploitable 2 & 3 as targets. Practiced full pentest workflows — scanning, enumeration, privilege escalation, and post-exploitation via Metasploit.
 
-### 🔵 Blue Team Detection & Response Lab *(2026)*
+### 🔵 Blue Team Detection & Response Lab _(2026)_
+
 Full SOC lab environment with Wazuh SIEM and pfSense firewall integration. Simulated real attacks from the red team lab to test detection rules, analyze alerts, and improve defensive coverage.
 
-### 🤖 [AI-Based Intrusion Detection System](https://github.com/AkramAldahyani/Real-Time-AI-IDS) *(2026)*
+### 🤖 [AI-Based Intrusion Detection System](https://github.com/AkramAldahyani/Real-Time-AI-IDS) _(2026)_
+
 ML-based IDS classifying network traffic as normal or malicious using Random Forest and XGBoost. Applied SMOTE for class imbalance, real traffic datasets, and full preprocessing pipeline.
 
-### 🚩 [PathHunt CTF](https://github.com/AkramAldahyani/PathHunt-CTF) *(2026)*
+### 🚩 [PathHunt CTF](https://github.com/AkramAldahyani/PathHunt-CTF) _(2026)_
+
 Beginner-friendly, self-contained web scavenger hunt with 10 static HTML challenges teaching core web recon skills — reading source, decoding payloads, directory fuzzing, header inspection, cookie tampering, and client-side auth bypass. Includes a flag submission system, progress dashboard, and score tracking via localStorage.
 
 ---
